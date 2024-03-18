@@ -1,5 +1,3 @@
-# SI_05a_expose_and_integrate_with_a_webhook_system
-
 # 05a [Pair] Expose and Integrate with a Webhook System
 
 **Type**: Work in pairs. Switch role between exposee and integrator. 
