@@ -12,7 +12,7 @@
     </parent>
 
     <groupId>com.meows.sir</groupId>
-    <artifactId>SI_03a_data_parsing_server_pt_II</artifactId>
+    <artifactId>SI_05a_expose_and_integrate_with_a_webhook_system</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>Shopper-Buddy-Webhook</name>
     <properties>
@@ -43,7 +43,7 @@
         <dependency>
             <groupId>org.modelmapper</groupId>
             <artifactId>modelmapper</artifactId>
-            <version>3.1.1</version>
+            <version>3.2.0</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->

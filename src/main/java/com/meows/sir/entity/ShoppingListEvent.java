@@ -10,8 +10,10 @@ import java.util.UUID;
 @Getter
 @Setter
 public class ShoppingListEvent {
-    private UUID uuid;
-    private final Long eventOccurredTime = System.currentTimeMillis();
-    private EventType eventType;
 
+    private UUID uuid;
+
+    private final Long eventCreatedTime = System.currentTimeMillis();
+
+    private EventType eventType;
 }
